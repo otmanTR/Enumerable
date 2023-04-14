@@ -87,7 +87,11 @@ Run ruby and enjoy managing your library
 - GitHub: [@LeslieAine](https://github.com/LeslieAine)
 - LinkedIn: [LeslieAine](https://linkedin.com/in/LeslieAine)
 
+👤 **Habtamu**
 
+- GitHub: [@Habtamu210](https://github.com/Habtamu210)
+- Twitter: [@beleyaha](https://twitter.com/beleyaha)
+- LinkedIn: [@habtamu-](https://www.linkedin.com/in/habtamu-birru/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
